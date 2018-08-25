@@ -3,5 +3,6 @@
     <pages>
         <page name='1-two-sum'/>
         <page name='11-max-water'/>
+        <page name='19-remove-Nth-from-end-list'/>
     </pages>
 </playground>
