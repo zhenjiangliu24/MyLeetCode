@@ -6,5 +6,6 @@
         <page name='19-remove-Nth-from-end-list'/>
         <page name='20-valid-parentheses'/>
         <page name='21-merge-2-sorted-list'/>
+        <page name='169-majority-number'/>
     </pages>
 </playground>
