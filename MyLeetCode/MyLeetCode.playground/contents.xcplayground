@@ -13,5 +13,6 @@
         <page name='35-search-insert-position'/>
         <page name='36-valid-sudoku'/>
         <page name='39-combination-sum'/>
+        <page name='70-climbing-stairs'/>
     </pages>
 </playground>
