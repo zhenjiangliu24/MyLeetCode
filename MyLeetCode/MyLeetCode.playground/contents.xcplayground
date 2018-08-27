@@ -9,5 +9,6 @@
         <page name='169-majority-number'/>
         <page name='26-remove-duplicates-in-array'/>
         <page name='29-divide-two-integer'/>
+        <page name='34-find-first-last-position-sortArray'/>
     </pages>
 </playground>
