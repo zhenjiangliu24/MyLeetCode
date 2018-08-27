@@ -11,5 +11,6 @@
         <page name='29-divide-two-integer'/>
         <page name='34-find-first-last-position-sortArray'/>
         <page name='35-search-insert-position'/>
+        <page name='36-valid-sudoku'/>
     </pages>
 </playground>
