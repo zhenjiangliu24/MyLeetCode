@@ -14,6 +14,9 @@ class ListNode {
 }
 
 class Solution {
+    /*
+     Divide and conquer
+   */
     func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
         if (l1 == nil || l2 == nil) {
             return l1 ?? l2

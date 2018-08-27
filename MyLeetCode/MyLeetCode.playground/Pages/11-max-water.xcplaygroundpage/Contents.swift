@@ -6,7 +6,9 @@
  ********************************************************************/
 
 import Foundation
-
+/*
+ Greedy algorithm
+ */
 func maxArea(_ height: [Int]) -> Int {
     if (height.count == 2) {
         return getArea(height, start: 0, end: 1)
