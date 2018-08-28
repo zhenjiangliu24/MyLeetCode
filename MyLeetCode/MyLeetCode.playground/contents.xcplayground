@@ -15,5 +15,6 @@
         <page name='39-combination-sum'/>
         <page name='70-climbing-stairs'/>
         <page name='485-max-consecutive'/>
+        <page name='475-heaters'/>
     </pages>
 </playground>
