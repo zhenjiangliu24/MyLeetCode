@@ -17,5 +17,7 @@
         <page name='485-max-consecutive'/>
         <page name='475-heaters'/>
         <page name='447-number-of-boomerangs'/>
+        <page name='412-fizz-buzz'/>
+        <page name='387-first-unique-character-in-string'/>
     </pages>
 </playground>
