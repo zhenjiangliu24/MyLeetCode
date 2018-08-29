@@ -21,5 +21,6 @@
         <page name='387-first-unique-character-in-string'/>
         <page name='746-min-cost-climbing-stairs'/>
         <page name='88-merge-sorted-array'/>
+        <page name='100-same-tree'/>
     </pages>
 </playground>
