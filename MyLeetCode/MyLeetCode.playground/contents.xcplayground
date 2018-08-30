@@ -24,5 +24,6 @@
         <page name='100-same-tree'/>
         <page name='101-symmetric-tree'/>
         <page name='226-invert-binary-tree'/>
+        <page name='111-minimal-tree-depth'/>
     </pages>
 </playground>
