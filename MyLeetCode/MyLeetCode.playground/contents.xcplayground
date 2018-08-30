@@ -22,5 +22,6 @@
         <page name='746-min-cost-climbing-stairs'/>
         <page name='88-merge-sorted-array'/>
         <page name='100-same-tree'/>
+        <page name='101-symmetric-tree'/>
     </pages>
 </playground>
