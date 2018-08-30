@@ -23,5 +23,6 @@
         <page name='88-merge-sorted-array'/>
         <page name='100-same-tree'/>
         <page name='101-symmetric-tree'/>
+        <page name='226-invert-binary-tree'/>
     </pages>
 </playground>
