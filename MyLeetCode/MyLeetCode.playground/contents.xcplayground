@@ -26,5 +26,6 @@
         <page name='226-invert-binary-tree'/>
         <page name='111-minimal-tree-depth'/>
         <page name='104-maximum-tree-depth'/>
+        <page name='543-diameter-of-binary-tree'/>
     </pages>
 </playground>
