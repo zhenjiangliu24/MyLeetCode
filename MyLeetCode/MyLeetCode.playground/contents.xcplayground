@@ -32,5 +32,6 @@
         <page name='102-binary-tree-level-order-traversal'/>
         <page name='107-binary-tree-level-order-traversal-reverse'/>
         <page name='112-path-sum'/>
+        <page name='113-path-sum-all'/>
     </pages>
 </playground>
