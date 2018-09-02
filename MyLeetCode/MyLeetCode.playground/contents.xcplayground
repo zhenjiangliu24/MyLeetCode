@@ -34,5 +34,7 @@
         <page name='112-path-sum'/>
         <page name='113-path-sum-all'/>
         <page name='437-path-sum-3'/>
+        <page name='121-best-time-buy-sell-stock'/>
+        <page name='463-island-preimeter'/>
     </pages>
 </playground>
