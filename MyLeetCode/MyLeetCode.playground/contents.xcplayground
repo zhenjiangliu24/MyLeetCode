@@ -38,5 +38,6 @@
         <page name='463-island-preimeter'/>
         <page name='229-majority-element-2'/>
         <page name='349-intersection-two-array'/>
+        <page name='350-intersection-two-array-2'/>
     </pages>
 </playground>
