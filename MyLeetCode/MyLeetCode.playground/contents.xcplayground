@@ -41,5 +41,6 @@
         <page name='350-intersection-two-array-2'/>
         <page name='217-contains-duplicates'/>
         <page name='219-contains-duplicates-2'/>
+        <page name='283-move-zeroes'/>
     </pages>
 </playground>
