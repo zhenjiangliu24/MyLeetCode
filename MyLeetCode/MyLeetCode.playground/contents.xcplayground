@@ -44,5 +44,6 @@
         <page name='283-move-zeroes'/>
         <page name='27-remove-elements'/>
         <page name='125-valid-palindrome'/>
+        <page name='257-binary-tree-path'/>
     </pages>
 </playground>
