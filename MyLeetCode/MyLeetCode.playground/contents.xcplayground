@@ -43,5 +43,6 @@
         <page name='219-contains-duplicates-2'/>
         <page name='283-move-zeroes'/>
         <page name='27-remove-elements'/>
+        <page name='125-valid-palindrome'/>
     </pages>
 </playground>
