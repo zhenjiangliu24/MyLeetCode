@@ -44,7 +44,7 @@ class Solution {
         return result
     }
     
-    private func dfs(_ root: TreeNode?, current: String, output: inout [String]) {
+    private func dfs(_ root: TreeNode?, current: String, outp[ut: inout [String]) {
         if root?.left == nil && root?.right == nil {
             output.append("\(current)\(root!.val)")
         }
