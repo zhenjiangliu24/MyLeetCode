@@ -46,5 +46,6 @@
         <page name='125-valid-palindrome'/>
         <page name='257-binary-tree-path'/>
         <page name='122-best-time-sell-stock-2'/>
+        <page name='231-power-of-2'/>
     </pages>
 </playground>
