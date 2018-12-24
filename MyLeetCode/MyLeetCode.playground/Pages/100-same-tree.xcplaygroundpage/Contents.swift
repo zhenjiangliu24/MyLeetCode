@@ -15,10 +15,10 @@
  Example 2:
  
  Input:     1         1
- /           \
- 2             2
+           /           \
+          2             2
  
- [1,2],     [1,null,2]
+        [1,2],     [1,null,2]
  
  Output: false
  */
