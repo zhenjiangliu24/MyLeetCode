@@ -47,5 +47,10 @@
         <page name='257-binary-tree-path'/>
         <page name='122-best-time-sell-stock-2'/>
         <page name='231-power-of-2'/>
+        <page name='0-practice'/>
+        <page name='48-rotate-image'/>
+        <page name='7-reverse-integer'/>
+        <page name='242-valid-anagram'/>
+        <page name='longest-common-prefix'/>
     </pages>
 </playground>
