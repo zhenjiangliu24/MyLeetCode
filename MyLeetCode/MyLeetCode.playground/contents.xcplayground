@@ -53,5 +53,6 @@
         <page name='242-valid-anagram'/>
         <page name='longest-common-prefix'/>
         <page name='38-count-and-say'/>
+        <page name='14-longest-common-prefix'/>
     </pages>
 </playground>
