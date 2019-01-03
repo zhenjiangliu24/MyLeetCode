@@ -54,5 +54,6 @@
         <page name='longest-common-prefix'/>
         <page name='38-count-and-say'/>
         <page name='14-longest-common-prefix'/>
+        <page name='98-validate-binary-search-tree'/>
     </pages>
 </playground>
