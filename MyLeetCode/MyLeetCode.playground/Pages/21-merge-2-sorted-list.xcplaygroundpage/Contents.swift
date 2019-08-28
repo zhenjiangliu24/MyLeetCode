@@ -33,4 +33,30 @@ class Solution {
         
         return newNode
     }
+    
+    func mergeTwoLists2(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {
+        guard l1 != nil && l2 != nil else {
+            
+            return l1 == nil ? l2 : l1
+        }
+        
+        let new = ListNode(0)
+        var temp: ListNode = new
+        var p1 = l1, p2 = l2
+        
+        while p1 != nil && p2 != nil {
+            if p1!.val < p2!.val {
+                temp.next = p1
+                p1 = p1!.next
+            } else {
+                temp.next = p2
+                p2 = p2!.next
+            }
+            temp = temp.next!
+        }
+        
+        temp.next = p1 != nil ? p1 : p2
+        
+        return new.next
+    }
 }
